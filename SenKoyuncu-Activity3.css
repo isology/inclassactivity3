@@ -1,0 +1,38 @@
+.advertisement
+{
+	width:100px;
+	height:150px; 
+	border-color:black;
+	border-width:2px; 
+	background-color:gray; 
+	color:white;
+}
+
+.image img{
+	width: 150px;
+	height: 150px;
+	float:left;
+	clear: both;
+	margin: 0px 5px 0px 0px;
+}
+.content{
+	width: 70%;
+	margin: 0px 0px 0px 150px
+}
+.logo{
+	margin: 0px 0px 0px 150px;
+	float:left;
+	
+}
+.title{
+	margin: 0px 0px 100px 160px;
+	
+}
+.advertisement{
+	top:10px;
+	left: 10px;
+	position: absolute;
+}
+.head{
+	margin: 0px 0px 0px 500px;
+}
